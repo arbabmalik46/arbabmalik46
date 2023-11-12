@@ -18,11 +18,12 @@ I'm a passionate software engineer with a love for Generative AI, Application De
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📂 My Projects
+<!--## 📂 My Projects
 
 - [Project 1: Name and brief description]
 - [Project 2: Name and brief description]
 - [Add more projects as needed]
+-->
 
 ## 🤝 Connect with Me
 
