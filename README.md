@@ -7,8 +7,10 @@ I'm a passionate software engineer with a love for Generative AI, Application De
 - 🔭 I’m currently working as a Software Engineer at Netsol Technologies Ltd.
 - 🌱 I’m currently learning Generative AI and Web3.0.
 - 👯 I’m looking to collaborate on Generative AI, Web3.0 and Machine Learning Projects.
-- 💬 Ask me about [topics you're knowledgeable about or passionate about].
-- 📫 How to reach me: [your email or social media handles].
+- 💬 Ask me about dotNet, TypeScript, JavaScript, C#, C++, Python, CSS, HTML, React, NextJS, Sanity, MaterialUI.
+- 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/rabab-munawar-322100170/)
+- [Twitter](https://twitter.com/your-username/)
 
 ## 🔧 Technologies & Tools
 
