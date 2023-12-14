@@ -34,3 +34,4 @@ I'm a passionate software engineer with a love for Generative AI, Application De
 <!-- [Personal Website/Blog](https://www.yourwebsite.com/)-->
 
 Feel free to explore my repositories and reach out if you have any questions or just want to chat. 😊
+This Profile is under construction. I have some cool repositories forked, you can checkout them. Thanks for visiting.
